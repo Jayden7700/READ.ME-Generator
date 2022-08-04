@@ -129,7 +129,14 @@ const writeFile = fileContent => {
         })
     })
 }
+// Function to store user inputs and prompt questions 
+const init = () => {
 
+    return inquirer.prompt(questions)
+        .then(readmeData => {
+            return readmeData
+        })
+}
 // Function call to initialize app
 init()
     .then(readmeData => {
