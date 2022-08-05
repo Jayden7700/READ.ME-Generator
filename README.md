@@ -27,7 +27,7 @@
   Used to generate a read with given user inputs for a project
   
   
-    ## [License](#table-of-contents)
+  ## [License](#table-of-contents)
     The application is under the following license:
     
     [None](https://choosealice.com/license/None)
