@@ -18,7 +18,7 @@
   ## [Description](#table-of-contents)
 
   Used to generate a read with given user inputs for a project
-
+https://youtu.be/YYZM9xqhf3w- Link to walk trough video
   ## [Installation](#table-of-contents)
 
   Install Inquirer 8.2.4
