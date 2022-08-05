@@ -3,7 +3,7 @@
   
     ![badge](https://img.shields.io/badge/license-None-blue)
 
-  ##Table-of-contents
+  ## Table-of-contents
 
   * [Description](#description)
   * [Installation](#installation)
@@ -21,7 +21,7 @@
 
   ## [Installation](#table-of-contents)
 
-  Install inqurire 8.2.4
+  Install Inquirer 8.2.4
 
   ## [Usage](#table-of-contents)
   Used to generate a read with given user inputs for a project
